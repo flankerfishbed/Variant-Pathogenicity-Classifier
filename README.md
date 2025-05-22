@@ -2,7 +2,7 @@
 This project uses machine learning to predict whether a human genetic variant is likely pathogenic or benign, using annotated data from the ClinVar database. The model was trained on over 3.4 million variants, leveraging biologically meaningful features like variant type, allele length difference, and gene symbol structure.
 # Variant Pathogenicity Classifier
 
-Author: Ashwin R.  
+Author: flankerfishbed  
 Project: Predicting the clinical impact of human genetic variants using machine learning
 
 This repository contains a machine learning pipeline that classifies human genetic variants as either pathogenic or benign, using annotated data from the ClinVar database.
